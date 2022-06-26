@@ -1,1 +1,1 @@
-# golang-prep
+Golang Practice Codes
